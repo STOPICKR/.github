@@ -33,7 +33,7 @@
 
 
 ## 시스템 아키텍처
-<img width="1261" alt="스크린샷 2025-03-06 오후 11 24 27" src="https://github.com/user-attachments/assets/40ab6f67-34d7-4264-9b9d-1bcdcc7617bd" />
+![스크린샷 2025-03-11 오전 3 05 17](https://github.com/user-attachments/assets/d7633b48-4437-4810-8315-1237977ed35b)
 
 
 
